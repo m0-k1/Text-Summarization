@@ -9,3 +9,17 @@ There are two general approaches to automatic summarization: Extraction and Abst
 Research to date has focused primarily on extractive methods, which are appropriate for image collection summarization and video summarization.
 
 In this Jupyter notebook, TextRank algorithm for extractive text summarization is implemented using Google's PageRank search algorithm to generate corelations among sentences.
+
+## Libraries Used
+- [Numpy](http://www.numpy.org)
+- [Pandas](https://pandas.pydata.org/)
+- [Natural Language Toolkit](https://www.nltk.org/)
+
+## Algorithms and Concepts
+- TextRank
+- [PageRank](https://en.wikipedia.org/wiki/PageRank)
+- [Cosine Similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
+
+## How to run
+- Install the required libraries using pip, virtual environment or conda.
+- Run `jupyter notebook` in your terminal.
