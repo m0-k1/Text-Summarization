@@ -4,8 +4,8 @@
 Automatic data summarization is part of the real machine learning and data mining. The main idea of summarization is to find a subset of data which contains the "information" of the entire set. Such techniques are widely used in industry today. Search engines are an example; others include summarization of documents, image collections and videos. Document summarization tries to create a representative summary or abstract of the entire document, by finding the most informative sentences, while in image summarization the system finds the most representative and important (i.e. salient) images. For surveillance videos, one might want to extract the important events from the uneventful context.
 
 There are two general approaches to automatic summarization: Extraction and Abstraction. 
-1. *Extractive Summarization* : These methods rely on extracting several parts, such as phrases and sentences, from a piece of text and stack them together to create a summary. Therefore, identifying the right sentences for summarization is of utmost importance in an extractive method.
-2. *Abstractive Summarization* : These methods use advanced NLP techniques to generate an entirely new summary. Some parts of this summary may not even appear in the original text. Such a summary might include verbal innovations. 
+1.  *Extractive Summarization* : These methods rely on extracting several parts, such as phrases and sentences, from a piece of text and stack them together to create a summary. Therefore, identifying the right sentences for summarization is of utmost importance in an extractive method.
+2.  *Abstractive Summarization* : These methods use advanced NLP techniques to generate an entirely new summary. Some parts of this summary may not even appear in the original text. Such a summary might include verbal innovations. 
 Research to date has focused primarily on extractive methods, which are appropriate for image collection summarization and video summarization.
 
 In this Jupyter notebook, TextRank algorithm for extractive text summarization is implemented using Google's PageRank search algorithm to generate corelations among sentences.
