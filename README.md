@@ -10,6 +10,8 @@ Research to date has focused primarily on extractive methods, which are appropri
 
 In this Jupyter notebook, TextRank algorithm for extractive text summarization is implemented using Google's PageRank search algorithm to generate corelations among sentences.
 
+![](images/nlp.png)
+
 ## Libraries Used
 - [Numpy](http://www.numpy.org)
 - [Pandas](https://pandas.pydata.org/)
