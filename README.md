@@ -26,5 +26,7 @@ In this Jupyter notebook, TextRank algorithm for extractive text summarization i
 
 ## Objective of the Jupyter Notebook
 
-
-
+The dataset contains long descriptions (Introduction) of products. 
+The task is to make a text summariser that takes these descriptions as input and summarises them into shorter versions without loosing the context.
+The length of the summary is also adjustable by the user.
+Dataset- TASK.xlxs
