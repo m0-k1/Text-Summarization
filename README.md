@@ -23,3 +23,8 @@ In this Jupyter notebook, TextRank algorithm for extractive text summarization i
 ## How to run
 - Install the required libraries using pip, virtual environment or conda.
 - Run `jupyter notebook` in your terminal.
+
+## Objective of the Jupyter Notebook
+
+
+
