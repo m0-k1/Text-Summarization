@@ -1,5 +1,8 @@
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="mohit-kundu"><a class="LI-simple-link" href='https://in.linkedin.com/in/mohit-kundu?trk=profile-badge'>Mohit Kundu</a></div>
+
+
 # Text-Summarization
-<img src="https://github.com/favicon.ico" width="48">   <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="mohit-kundu"><a class="LI-simple-link" href='https://in.linkedin.com/in/mohit-kundu?trk=profile-badge'>Mohit Kundu</a></div>
+<img src="https://github.com/favicon.ico" width="48">
 
 **Automatic summarization** is the process of shortening a text document with software, in order to create a summary with the major points of the original document. Technologies that can make a coherent summary take into account variables such as length, writing style and syntax.
 
